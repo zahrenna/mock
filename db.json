@@ -12,7 +12,7 @@
     "id": 2,
     "productName": "Blouse",
     "productPrice": "RM 20",
-    "productDescription": "Pakaian terhebat anda"
+    "productDescription": "Pakaian terhebat anda",
     "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/paule-ka_19H180H22_417_5.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "id": 3,
     "productName": "USB wire",
     "productPrice": "RM 10",
-    "productDescription": "Wire kehidupan anda hihihihi"
+    "productDescription": "Wire kehidupan anda hihihihi",
     "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/71MF3XyeugL._AC_SL1500_.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "id": 4,
     "productName": "Delivery",
     "productPrice": "RM 5",
-    "productDescription": "Ayuhlah kita mendeliver muheheheh"
+    "productDescription": "Ayuhlah kita mendeliver muheheheh",
     "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/blgo2.jpg"
   }
 ]

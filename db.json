@@ -1,0 +1,30 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "productName": "Pizza Hut",
+    "productPrice": "RM 2",
+    "productDescription": "Delicious hingga menjilat jari"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "productName": "Blouse",
+    "productPrice": "RM 20",
+    "productDescription": "Pakaian terhebat anda"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "productName": "USB wire",
+    "productPrice": "RM 10",
+    "productDescription": "Wire kehidupan anda hihihihi"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "productName": "Delivery",
+    "productPrice": "RM 5",
+    "productDescription": "Ayuhlah kita mendeliver muheheheh"
+  }
+]

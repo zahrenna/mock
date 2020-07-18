@@ -10,7 +10,7 @@
   },
   {
     "id": 3,
-    "Name": "COMPUTER & ACCESORIES",
+    "Name": "COMPUTER and ACCESORIES",
   },
   {
     "id": 4,

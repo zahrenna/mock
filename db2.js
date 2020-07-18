@@ -2,19 +2,19 @@
   "categories" : [
   {
     "id": 1,
-    "Name": "FOOD",
+    "Name": "FOOD"
   },
   {
     "id": 2,
-    "Name": "APPAREL",
+    "Name": "APPAREL"
   },
   {
     "id": 3,
-    "Name": "COMPUTER and ACCESORIES",
+    "Name": "COMPUTER and ACCESORIES"
   },
   {
     "id": 4,
-    "Name": "SERVICES",
+    "Name": "SERVICES"
   },
 
 ],

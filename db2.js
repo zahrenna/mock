@@ -1,4 +1,5 @@
-"categories" : [
+{
+  "categories" : [
   {
     "id": 1,
     "Name": "FOOD",
@@ -60,3 +61,4 @@
     "contactNumber" : "https://wa.me/60178988603"
   }
 ]
+}

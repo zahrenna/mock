@@ -4,7 +4,8 @@
     "id": 1,
     "productName": "Pizza Hut",
     "productPrice": "RM 2",
-    "productDescription": "Delicious hingga menjilat jari"
+    "productDescription": "Delicious hingga menjilat jari",
+    "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/pizza-hut.jpg"
   },
   {
     "userId": 1,
@@ -12,6 +13,7 @@
     "productName": "Blouse",
     "productPrice": "RM 20",
     "productDescription": "Pakaian terhebat anda"
+    "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/paule-ka_19H180H22_417_5.jpg"
   },
   {
     "userId": 1,
@@ -19,6 +21,7 @@
     "productName": "USB wire",
     "productPrice": "RM 10",
     "productDescription": "Wire kehidupan anda hihihihi"
+    "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/71MF3XyeugL._AC_SL1500_.jpg"
   },
   {
     "userId": 1,
@@ -26,5 +29,6 @@
     "productName": "Delivery",
     "productPrice": "RM 5",
     "productDescription": "Ayuhlah kita mendeliver muheheheh"
+    "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/blgo2.jpg"
   }
 ]

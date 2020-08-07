@@ -1,0 +1,22 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "productName": "Pizza Hut",
+    "productPrice": "RM 2",
+    "productDescription": "Delicious hingga menjilat jari",
+    "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/pizza-hut.jpg",
+    "productCategory" : "FOOD",
+    "contactNumber" : "https://wa.me/60178988603"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "productName": " CAR RENTAL",
+    "productPrice": "RM 5 per hour ",
+    "productDescription": " LA TANSA ENTERPRISE CAR RENTAL (WEEKEND PROMO) \n 🚘🚘🚘🚘🚘🚘🚘🚘 \n ✨✨✨✨✨✨✨✨ \n Perodua ALZA \n RM 9 RM 5 per hour \n RM 90 RM 50 half day \n RM 150 RM 100 Full day \n\n DRIVE WITH US & TAKE PRIDE",
+    "productURL" : "https://raw.githubusercontent.com/zahrenna/mock/master/service%20predodua%20alza.jpg",
+    "productCategory" : "SERVICES",
+    "contactNumber" : "https://wa.me/6282244054441"
+  }
+]
